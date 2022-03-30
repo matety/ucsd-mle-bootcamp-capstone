@@ -42,3 +42,7 @@ unique ways:
 ### Data Sets
 * [Train](train.csv): [Training Dataset - Kaggle](https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data)
 * [Test](test.csv): [Test Dataset - Kaggle](https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data)
+
+### Models
+* [Logistic Regression](https://console.paperspace.com/matety/notebook/rxiffwniix2lodp?file=Logistic_Regression_Model.ipynb)
+* [Gradient Boosted Decision Tree](https://console.paperspace.com/matety/notebook/rzvt4hm6g0x5u2n?file=Gradient_Boosted_DecisionTree_Model.ipynb)
