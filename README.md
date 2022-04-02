@@ -46,3 +46,4 @@ unique ways:
 ### Models
 * [Logistic Regression](https://console.paperspace.com/matety/notebook/rxiffwniix2lodp?file=Logistic_Regression_Model.ipynb)
 * [Gradient Boosted Decision Tree](https://console.paperspace.com/matety/notebook/rzvt4hm6g0x5u2n?file=Gradient_Boosted_DecisionTree_Model.ipynb)
+* [Neural Networks](https://console.paperspace.com/matety/notebook/razbfrejnchvxg2?file=%2FKeras_with_TensorFlow_Model.ipynb)
