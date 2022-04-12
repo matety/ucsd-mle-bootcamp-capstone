@@ -53,3 +53,6 @@ XGBoost was the best performing model of all the models above. This will be the 
 
 In addition, the training data will be imported as a feature store table that will be used to train the model as part of MLFlow. The XGBoost model will also leverage PySpark to allow to be fully-integrated into the Databricks platform to run multiple experiments and promote the experiment with the best AUC metric outcome as the model to be promoted for inference.
 
+### Inference Model
+* [Test Data](https://github.com/matety/ucsd-mle-bootcamp-capstone/blob/main/data.json)
+* [Inference Invocation](https://github.com/matety/ucsd-mle-bootcamp-capstone/blob/main/test.sh)
