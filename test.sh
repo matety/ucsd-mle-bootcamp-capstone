@@ -4,6 +4,6 @@ PROB=$(curl -s \
   -X POST \
   -H "Content-Type: application/json" \
   -d@data.json \
-  https://vertexinc-cse-dev-ws1.cloud.databricks.com/model/transaction_classification/10/invocations)
+  https://<workspace>.cloud.databricks.com/model/transaction_classification/10/invocations)
 
 echo 'Probability of click:'$PROB
